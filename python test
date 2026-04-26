@@ -1,0 +1,5 @@
+print("hello world!")   
+
+num1=int
+num1=4
+print:("num1の値")
